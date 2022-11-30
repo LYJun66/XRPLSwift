@@ -40,7 +40,7 @@ Pod::Spec.new do |s|
   # }
 
   s.dependency 'secp256k1.swift'
-  s.dependency 'CryptoSwift', '~> 1.5.1'
+  s.dependency 'CryptoSwift', '~> 1.4.3'
   s.dependency 'BigInt', '~> 5.0'
   s.dependency 'AnyCodable-FlightSchool'
   s.dependency 'SwiftNIO'
